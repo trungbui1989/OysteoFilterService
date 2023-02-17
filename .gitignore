@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+/package
+/.chrome
+/.vercel_build_output
+yarn-error.log
+/.idea
+/.env
+/.env.*
+!/.env.example
+yarn.lock
+/.vscode/settings.json
+/.cloudflare
+.vercel
